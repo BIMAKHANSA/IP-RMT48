@@ -1,0 +1,7 @@
+/* Add to your existing styles in the head section or in a separate CSS file */
+.book {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+    text-align: left;
+  }
